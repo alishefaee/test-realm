@@ -1,0 +1,5 @@
+.idea
+node_modules
+default.realm.lock
+default.realm.note
+default.realm.management
